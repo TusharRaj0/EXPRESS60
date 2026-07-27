@@ -18,7 +18,8 @@ EXPRESS-60 is a Flask-based NLP web application that summarizes real-time news a
 - Newspaper3k
 - REST APIs
 - HTML
-- CSS
+- Css
+- 
 
 ## ▶️ Installation
 
